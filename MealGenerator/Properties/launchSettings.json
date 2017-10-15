@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MealGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "2 2 2 2 2 3 3 2"
+    }
+  }
+}

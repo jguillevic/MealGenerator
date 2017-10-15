@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26711.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealGenerator", "MealGenerator\MealGenerator.csproj", "{5B849285-0FA6-4260-9D82-8EA9334E20BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealGenerator", "MealGenerator\MealGenerator.csproj", "{5B849285-0FA6-4260-9D82-8EA9334E20BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
