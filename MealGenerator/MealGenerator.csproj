@@ -6,8 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Meals.json" />
-    <None Remove="Planning.txt" />
     <None Remove="Repas.txt" />
   </ItemGroup>
 
